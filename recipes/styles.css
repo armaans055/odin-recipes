@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(59, 40, 154);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1{
+    background-color: olive;
+    font-size: 80px;
+}
+
+h2{
+    color:red;
+}
+
+ol, li, a , em, strong, b, sup{
+    background-color: aliceblue;
+}
