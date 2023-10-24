@@ -1,0 +1,27 @@
+*{
+    background-color: grey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1{
+    text-align: center;
+    
+}
+
+img{
+    margin-left: 200px;
+    border-radius: 50%;
+}
+
+h2{
+    color: purple;
+}
+
+p, strong, b, em{
+    background-color: white;
+}
+
+a{
+    font-size: 100px;
+    background-color: none;
+}
